@@ -7,7 +7,6 @@
 ### CDK ###
 cdk.*
 
-.env
 cdk.out
 serverless_pipeline/serverless_pipeline.egg-info
 Pipfile
